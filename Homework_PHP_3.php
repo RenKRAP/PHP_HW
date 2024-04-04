@@ -5,7 +5,8 @@
     </head>
     
     <body>
-        <h1>This is HW2</h1>
+        <h1>This is HW3</h1>
+        <h2>피보나치</h2>
         <form method="post" action="">
             <label for="number1">n : </label>
             <input type="number" name="number1" id="number1">

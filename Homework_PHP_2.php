@@ -6,6 +6,7 @@
     
     <body>
         <h1>This is HW2</h1>
+        <h2>랜덤 정렬하기</h2>
         <form method="post" action="">
             <label for="number1">n : </label>
             <input type="number" name="number1" id="number1">
